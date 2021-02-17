@@ -1,0 +1,32 @@
+Time:,mondayA,Monday,tuesdayA,Tuesday,wednesdayA,Wednesday,thursdayA,Thursday,fridayA,Friday,saturdayA,Saturday,sundayA,Sunday
+date:,01/02/2021,01/02/2021,02/02/2021,02/02/2021,03/02/2021,03/02/2021,04/02/2021,04/02/2021,05/02/2021,05/02/2021,06/02/2021,06/02/2021,07/02/2021,07/02/2021
+r:,11:14:00,0.0,10:20:00,0.0,12:25:00,0.0,12:31:00,0.0,12:46:00,0,12:20:00,0.0,09:50:00,0.0
+7:00AM,N/A,0.0,N/A,0.0,N/A,0.0,N/A,0.0,N/A,0,N/A,0.0,N/A,0.0
+8:00AM,N/A,0.0,N/A,0.0,N/A,0.0,N/A,0.0,N/A,0,N/A,0.0,N/A,0.0
+9:00AM,N/A,0.0,N/A,0.0,N/A,0.0,N/A,0.0,N/A,0,N/A,0.0,N/A,0.0
+10:00AM,overslept,-5.0,meal,1.0,overslept,-5.0,overslept,-5.0,overslept,-5,overslept,-5.0,meal,1.0
+11:00AM,coding,3.0,socialising,2.0,overslept,-5.0,overslept,-5.0,overslept,-5,coding,3.0,coding,3.0
+12:00PM,coding,3.0,coding,3.0,meal,1.0,coding,3.0,meal,1,coding,3.0,coding,3.0
+13:00PM,coding,3.0,coding,3.0,exercise,4.0,coding,3.0,hygiene,2,coding,3.0,coding,3.0
+14:00PM,coding,3.0,coding,3.0,creative writing,8.0,coding,3.0,creative writing,8,coding,3.0,exercise,4.0
+15:00PM,coding,3.0,coding,3.0,coding,3.0,coding,3.0,vidya,-1,"coding, meal",4.0,"meal, hygiene",3.0
+16:00PM,coding,3.0,coding,3.0,coding,3.0,coding,3.0,vidya,-1,coding,3.0,coding,3.0
+17:00PM,coding,3.0,coding,3.0,"exercise, coding",7.0,creative writing,8.0,vidya,-1,coding,3.0,coding,3.0
+18:00PM,coding,3.0,coding,3.0,coding,3.0,coding,3.0,coding,3,coding,3.0,coding,3.0
+19:00PM,coding,3.0,"coding, meal",4.0,meal,1.0,meal,1.0,coding,3,"meal, creative writing",9.0,"coding, meal",4.0
+20:00PM,"coding, meal",4.0,coding,3.0,playing music,2.0,exercise,4.0,exercise,4,"socialising, sd",1.0,"coding, sd",2.0
+21:00PM,coding,3.0,coding,3.0,creative writing,8.0,exercise,4.0,meal,1,socialising,2.0,coding,3.0
+22:00PM,"coding, hygiene",5.0,creative writing,8.0,vidya,-1.0,exercise,4.0,socialising,2,socialising,2.0,coding,3.0
+23:00PM,"coding, creative writing",11.0,sd,-1.0,"vidya, sd",-2.0,tv,-1.0,socialising,2,tv,-1.0,tv,-1.0
+s:,03:00:00,0.0,06:30:00,0.0,07:30:00,0.0,07:30:00,0.0,01:25:00,0,01:00:00,0.0,01:05:00,0.0
+raw total,0,39.0,0,42.0,0,30.0,0,29.0,0,13,0,34.0,0,38.0
+perfect meals bonus,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+no smoking bonus,0,10,0,0,0,0,0,10,0,10,0,0,0,0
+good sleep bonus,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+good comms bonus,0,10,0,0.0,0,10,0,0.0,0,0.0,0,0.0,0,0.0
+perfect hygiene bonus,0,0.0,0,0.0,0,0.0,0,0.0,0,10,0,10,0,10
+perfect water bonus,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+skated today,0,0.0,0,0.0,0,0.0,0,10,0,0.0,0,0.0,0,0.0
+kept the chain,0,5,0,5,0,5,0,5,0,5,0,5,0,5
+words written bonus,0,0,0,5,0,2,0,2,0,5,0,10,0,10
+FINAL TOTAL,0,64.0,0,52.0,0,47.0,0,56.0,0,43.0,0,59.0,0,73.0

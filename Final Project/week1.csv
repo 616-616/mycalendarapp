@@ -1,0 +1,32 @@
+Time:,mondayA,Monday,tuesdayA,Tuesday,wednesdayA,Wednesday,thursdayA,Thursday,fridayA,Friday,saturdayA,Saturday,sundayA,Sunday
+date:,04/01/2021,04/01/2021,05/01/2021,05/01/2021,06/01/2021,06/01/2021,07/01/2021,07/01/2021,08/01/2021,08/01/2021,09/01/2021,09/01/2021,10/01/2021,10/01/2021
+r:,09:55:00,0.0,06:45:00,0.0,10:05:00,0.0,07:15:00,0.0,10:15:00,0.0,10:30:00,0.0,13:30:00,0.0
+7:00AM,N/A,0.0,"meal, coding",4.0,N/A,0.0,"meal, coding",4.0,N/A,0.0,N/A,0.0,N/A,0.0
+8:00AM,N/A,0.0,coding,3.0,N/A,0.0,coding,3.0,N/A,0.0,N/A,0.0,N/A,0.0
+9:00AM,N/A,0.0,"coding, sd",2.0,N/A,0.0,coding,3.0,N/A,0.0,N/A,0.0,N/A,0.0
+10:00AM,"socialising, meal",3.0,coding,3.0,"meal, tv",0.0,coding,3.0,meal,1.0,meal,1.0,overslept,-5.0
+11:00AM,socialising,2.0,coding,3.0,professional writing,4.0,coding,3.0,vidya,-1.0,creative writing,8.0,overslept,-5.0
+12:00PM,vidya,-1.0,meal,1.0,professional writing,4.0,coding,3.0,coding,3.0,tv,-1.0,overslept,-5.0
+13:00PM,vidya,-1.0,professional writing,4.0,exercise,4.0,meal,1.0,meal,1.0,tv,-1.0,tv,-1.0
+14:00PM,vidya,-1.0,professional writing,4.0,meal,1.0,exercise,4.0,cleaning,4.0,meal,1.0,meal,1.0
+15:00PM,socialising,2.0,professional writing,4.0,reading,2.0,"hygiene, cleaning",6.0,"exercise, tidying",7.0,exercise,4.0,creative writing,8.0
+16:00PM,"socialising, exercise",6.0,exercise,4.0,reading,2.0,"socialising, sd",1.0,exercise,4.0,hygiene,2.0,vidya,-1.0
+17:00PM,"socialising, exercise",6.0,"exercise, hygiene",6.0,vidya,-1.0,creative writing,8.0,texting and errands,0.0,creative writing,8.0,vidya,-1.0
+18:00PM,"socialising, exercise",6.0,creative writing,8.0,writing music,3.0,"meal, tidying",4.0,socialising,2.0,vidya,-1.0,vidya,-1.0
+19:00PM,"socialising, exercise",6.0,socialising,2.0,playing music,2.0,cleaning,4.0,meal,1.0,meal,1.0,meal,1.0
+20:00PM,"socialising, meal",3.0,"socialising, meal",3.0,meal,1.0,tidying,3.0,"socialising, vidya",1.0,exercise,4.0,vidya,-1.0
+21:00PM,socialising,2.0,vidya,-1.0,vidya,-1.0,vidya,-1.0,"socialising, vidya",1.0,exercise,4.0,vidya,-1.0
+22:00PM,socialising,2.0,vidya,-1.0,vidya,-1.0,vidya,-1.0,"socialising, vidya",1.0,"socialising, sd",1.0,vidya,-1.0
+23:00PM,"socialising, tv",1.0,vidya,-1.0,vidya,-1.0,vidya,-1.0,sd,-1.0,sd,-1.0,vidya,-1.0
+s:,02:23:00,0.0,23:55:00,0.0,03:22:00,0.0,00:35:00,0.0,02:30:00,0.0,03:45:00,0.0,03:45:00,0.0
+raw total,0,37.0,0,51.0,0,22.0,0,50.0,0,25.0,0,31.0,0,-9.0
+perfect meals bonus,0,0,0,10,0,10,0,10,0,10,0,10,0,0
+no smoking bonus,0,10,0,0,0,10,0,0,0,0,0,0,0,10
+good sleep bonus,0,0.0,0,20.0,0,0.0,0,10.0,0,0.0,0,0.0,0,0.0
+good comms bonus,0,10,0,0.0,0,0.0,0,0.0,0,10,0,10,0,0.0
+perfect hygiene bonus,0,0.0,0,10,0,0.0,0,0.0,0,0.0,0,10,0,0.0
+perfect water bonus,0,0.0,0,0.0,0,0.0,0,0.0,0,10,0,10,0,0.0
+skated today,0,10,0,0.0,0,0.0,0,0.0,0,0.0,0,20,0,0.0
+kept the chain,0,-5,0,5,0,5,0,5,0,-5,0,5,0,5
+words written bonus,0,0,0,0,0,0,0,5,0,0,0,2,0,5
+FINAL TOTAL,0,62.0,0,96.0,0,47.0,0,80.0,0,50.0,0,98.0,0,11.0
